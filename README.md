@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrancoLorenzo!
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning ASP.NET Core and Python
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on Software development and Machine Learning projects.
 
 
