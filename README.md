@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrancoLorenzo!
-- 👀 I’m interested in Techical Writing and new technologies.
+- 👀 I’m a Techical Writing interested in new technologies.
 - 🌱 I’m currently learning C# and Python.
 - 💞️ I’m looking to collaborate on Software development projects.
 
