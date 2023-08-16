@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrancoLorenzo!
 - 👀 I’m a Techical Writing interested in new technologies.
 - 🌱 I’m currently learning Python and R.
-- 💞️ I’m looking to collaborate on Data Science projects.
+<!--- - 💞️ I’m looking to collaborate on Data Science projects. --->
 
 
 <!---
