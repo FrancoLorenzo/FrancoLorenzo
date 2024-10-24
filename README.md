@@ -1,6 +1,21 @@
+👋 Hi, I’m Franco! <br>
+🌍 From Costa Rica <br>
+🎓 Master’s Student in Data Science at Illinois Institute of Technology <br>
+💼 Experienced Security Technical Writer with a background in Security Project Management <br>
+📊 Exploring the intersection of data and technology, passionate about building scalable solutions <br>
+⚽ Working on an MLS Analytics Hub — a database system and web application for Major League Soccer data <br>
+💻 Tech Stack: Python, R, MySQL, SQL, .NET(C#) <br>
+🌱 Currently learning: Advanced database design, web development, and data analysis <br>
+🥋 Brazilian Jiu-Jitsu practitioner — white belt
+
+
+
+<!--
 - 👋 Hi, I’m @FrancoLorenzo!
 - 👀 I’m a Techical Writing interested in new technologies.
 - 🌱 I’m currently learning Python and R.
+-->
+<!--🚀 Aiming to transition into a Product Manager role at Microsoft in 2025 -->
 
 <!--
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoLorenzo&langs_count=5&theme=tokyonight)]()
