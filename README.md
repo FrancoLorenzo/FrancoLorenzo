@@ -3,7 +3,7 @@
 🎓 Master’s Student in Data Science at Illinois Institute of Technology <br>
 💼 Experienced Security Technical Writer with a background in Security Project Management <br>
 📊 Exploring the intersection of data and technology, passionate about building scalable solutions <br>
-⚽ Working on an MLS Analytics Hub — a database system and web application for Major League Soccer data <br>
+<!--⚽ Working on an MLS Analytics Hub — a database system and web application for Major League Soccer data <br> -->
 💻 Tech Stack: Python, R, MySQL, SQL, .NET(C#) <br>
 🌱 Currently learning: Advanced database design, web development, and data analysis <br>
 
