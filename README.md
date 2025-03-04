@@ -6,7 +6,6 @@
 ⚽ Working on an MLS Analytics Hub — a database system and web application for Major League Soccer data <br>
 💻 Tech Stack: Python, R, MySQL, SQL, .NET(C#) <br>
 🌱 Currently learning: Advanced database design, web development, and data analysis <br>
-🥋 Brazilian Jiu-Jitsu practitioner — white belt
 
 
 
