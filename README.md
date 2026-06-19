@@ -1,10 +1,10 @@
 👋 Hi, I’m Franco! <br>
 🌍 From Costa Rica <br>
 🎓 Master in Data Science at Illinois Institute of Technology <br>
-💼 Product Manager at Microsoft <br>
+💼 Product Manager at Microsoft
 <!--📊 Exploring the intersection of data and technology, passionate about building scalable solutions <br>-->
 <!--💻 Tech Stack: Python, R, MySQL, SQL, .NET(C#) <br>-->
-<!--🌱 Currently learning: Advanced database design, web d-->evelopment, and data analysis <br>
+<!--🌱 Currently learning: Advanced database design, web d-->evelopment, and data analysis <br> -->
 <!--⚽ Working on an MLS Analytics Hub — a database system and web application for Major League Soccer data <br> -->
 
 
